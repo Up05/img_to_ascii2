@@ -1,6 +1,7 @@
 # img_to_ascii2
 Print out any* image you want in your terminal
 
+*Currently you must go to the executable's path to access `palettes.txt`, oops... I'll fix that a bit later*
 Usage: `img_to_ascii2.exe <image> <columns> <rows> [<palette>]`
 
 There are a couple of predefined palettes, although, you may also make your own palettes in the file named: `palettes.txt`.
